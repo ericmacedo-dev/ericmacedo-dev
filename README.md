@@ -10,7 +10,7 @@ My name is Eric Macedo, a passionate Software Developer from Brazil who loves le
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,express,react,python,postgresql,docker,neovim,arch,git,github,devto)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,express,react,python,postgresql,mysql,docker,neovim,arch,git,github)](https://skillicons.dev)
 
 <br/>
 
