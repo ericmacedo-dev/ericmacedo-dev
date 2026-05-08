@@ -20,7 +20,7 @@ I'm a junior developer based in São Paulo, Brazil. I hold an IT degree and I'm 
 **Backend (studying & building):** Java · Spring Boot · JUnit · PostgreSQL · Docker 
 
 **Frontend (daily work):** JavaScript · TypeScript · React · Shopify Liquid
-**Also comfortable with:** Node.js · Python · Git · GitHub Actions
+**Also comfortable with:** Node.js · Python · Git
  
 I'm intentionally narrowing my focus to Java/Spring rather than collecting frameworks. The goal is depth, not surface area.
 
