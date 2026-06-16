@@ -11,7 +11,7 @@ I'm a junior developer based in São Paulo, Brazil. I hold an IT degree and I'm 
 - 💼 Frontend developer at an e-commerce agency, working daily with Shopify (Liquid), VTEX, and Deco across B2B and B2C clients
 - 🎓 IT graduate from [Centro Universitário Ítalo Brasileiro](https://uniitalo.com.br/), now pursuing a BSc in Computer Science
 - 🌱 Learning Java + Spring Boot, with hands-on practice in REST APIs, testing, and CI workflows
-- 🌎 [C2 Advanced English](https://cert.efset.org/pt/azsknp) — comfortable in technical interviews and async-written environments
+- 🌎 [B2 Advanced English](https://cert.efset.org/pt/azsknp) — comfortable in technical interviews and async-written environments
 - 🎯 Looking for: backend internships and junior roles where I can build real systems and learn from a strong engineering culture
 ---
  
